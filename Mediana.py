@@ -17,6 +17,7 @@ while True:
 
 print("")
 qtde_itens = len(lista)
+lista.sort()
 print(f"Números informados: {lista}")
 print("")
 
